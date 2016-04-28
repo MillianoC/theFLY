@@ -1,0 +1,19 @@
+{
+  "name": "thefly",
+  "version": "0.0.1",
+  "description": "Next gen POS",
+  "license": "UNLICENSED",
+  "author": "Chris Milliano",
+  "private": true,
+  "main": "app.js",
+  "dependencies": {
+    "angular": "^1.5.3",
+    "express": "^4.13.4",
+    "node": "5.6.0",
+    "socket.io": "^1.4.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}

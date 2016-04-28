@@ -1,0 +1,23 @@
+{
+  "name": "thefly",
+  "description": "Next gen POS",
+  "main": "app.js",
+  "authors": [
+    "Chris Milliano"
+  ],
+  "license": "UNLICENSED",
+  "moduleType": [],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.3",
+    "bootstrap": "^3.3.6"
+  }
+}
